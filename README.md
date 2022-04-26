@@ -1,9 +1,12 @@
 # Fadi Hania
+
+<!-- ## Full-Stack Web Developer -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&color=FCB33A&lines=Full-Stack+Web+Developer;Consultant;Mentor;Trainer)](https://coddict.co)
+
 [![LinkedIn Profile](https://img.shields.io/badge/FADIHANIA-Profile-0077b5?style=for-the-badge&logo=linkedin)][linkedin]
 [![Twitter Follow](https://img.shields.io/twitter/follow/fadihania?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffadihania&screen_name=fadihania)
 
-## Full-Stack Web Developer
-Experienced full-stack web developer with MSc Software Engineering. I have 17+ years of in-depth development experience in which I have worked on developing many successful websites.
+Experienced Full-Stack Web Developer, Consultant, Mentor and Trainer with MSc Software Engineering. I have 18+ years of in-depth development experience in which I have worked on developing many successful websites, while helping thousands in learning software development.
 
 ### Connect with me:
 
