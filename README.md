@@ -1,7 +1,7 @@
 # Fadi Hania
 
 <!-- ## Full-Stack Web Developer -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&color=FCB33A&lines=Full-Stack+Web+Developer;Consultant;Mentor;Trainer)](https://coddict.co)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&color=FCB33A&lines=Full-Stack+Web+Developer;Consultant;Mentor;Trainer)][coddict]
 
 [![LinkedIn Profile](https://img.shields.io/badge/FADIHANIA-Profile-0077b5?style=for-the-badge&logo=linkedin)][linkedin]
 [![Twitter Follow](https://img.shields.io/twitter/follow/fadihania?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffadihania&screen_name=fadihania)
@@ -10,10 +10,11 @@ Experienced Full-Stack Web Developer, Consultant, Mentor and Trainer with MSc So
 
 ### Connect with me:
 
-[<img align="left" alt="fadihania | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg?logoWidth=25" />][linkedin]
-[<img align="left" alt="fadihania | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="fhania | Upwork" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />][upwork]
-[<img align="left" alt="fhania | Skype" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />][skype]
+[<img align="left" alt="coddict" width="25px" src="icons/coddict.svg" />][coddict]
+[<img align="left" alt="fadihania | LinkedIn" width="25px" src="icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="fadihania | Twitter" width="25px" src="icons/twitter.svg" />][twitter]
+[<img align="left" alt="fhania | Upwork" width="25px" src="icons/upwork.svg" />][upwork]
+[<img align="left" alt="fhania | Skype" width="25px" src="icons/skype.svg" />][skype]
 
 <br />
 <br />
@@ -65,6 +66,7 @@ Experienced Full-Stack Web Developer, Consultant, Mentor and Trainer with MSc So
 [<img align="left" alt="Azure DevOps" title="Azure DevOps" height="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/azuredevops.svg" />][linkedin]
 [<img align="left" alt="Terminal" title="Terminal" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkedin]
 
+[coddict]: https://coddict.co
 [linkedin]: https://linkedin.com/in/fadihania
 [twitter]: https://twitter.com/fadihania
 [skype]: https://join.skype.com/invite/aOv2PHNvzmWc
