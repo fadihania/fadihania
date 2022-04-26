@@ -21,19 +21,21 @@ Experienced Full-Stack Web Developer, Consultant, Mentor and Trainer with MSc So
 ## Skills
 ### Languages:
 
-[<img align="left" alt="C#" title="C#" height="20px" src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c%20sharp&logoColor=white" />][linkedin]
-[<img align="left" alt="HTML5" title="HTML5" height="20px" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white" />][linkedin]
-[<img align="left" alt="CSS3" title="CSS3" height="20px" src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white" />][linkedin]
-[<img align="left" alt="JavaScript" title="JavaScript" height="20px" src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E" />][linkedin]
-[<img align="left" alt="TypeScript" title="TypeScript" height="20px" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white" />][linkedin]
-[<img align="left" alt="PHP" title="PHP" height="20px" src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat-square&logo=php&logoColor=white" />][linkedin]
+[<img align="left" alt="C#" title="C#" height="20px" src="https://img.shields.io/badge/C%23-239120.svg?style=flat-square&logo=c%20sharp&logoColor=white" />][linkedin]
+[<img align="left" alt="HTML5" title="HTML5" height="20px" src="https://img.shields.io/badge/HTML5%20-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white" />][linkedin]
+[<img align="left" alt="CSS3" title="CSS3" height="20px" src="https://img.shields.io/badge/CSS3%20-1572B6.svg?&style=flat-square&logo=css3&logoColor=white" />][linkedin]
+[<img align="left" alt="JavaScript" title="JavaScript" height="20px" src="https://img.shields.io/badge/JavaScript%20-323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E" />][linkedin]
+[<img align="left" alt="TypeScript" title="TypeScript" height="20px" src="https://img.shields.io/badge/TypeScript%20-007ACC.svg?&style=flat-square&logo=typescript&logoColor=white" />][linkedin]
+[<img align="left" alt="Python" title="Python" height="20px" src="https://img.shields.io/badge/Python-323330.svg?&style=flat-square&logo=Python&logoColor=white" />][linkedin]
+[<img align="left" alt="PHP" title="PHP" height="20px" src="https://img.shields.io/badge/PHP-777BB4.svg?&style=flat-square&logo=php&logoColor=white" />][linkedin]
 
 <br />
 
 ### Frontend:
-[<img align="left" alt="Vue.js" title="Vue.js" height="20px" src="https://img.shields.io/badge/Vue.js%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=%234FC08D" />][linkedin]
-[<img align="left" alt="Angular" title="Angular" height="20px" src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?&style=flat-square&logo=angular&logoColor=white" />][linkedin]
-[<img align="left" alt="Aurelia" title="Aurelia" height="20px" src="https://img.shields.io/badge/Aurelia-%23ED2B88.svg?&style=flat-square&logo=aurelia&logoColor=white" />][linkedin]
+[<img align="left" alt="Angular" title="Angular" height="20px" src="https://img.shields.io/badge/Angular%20-DD0031.svg?&style=flat-square&logo=angular&logoColor=white" />][linkedin]
+[<img align="left" alt="Blazor" title="Blazor" height="20px" src="https://img.shields.io/badge/Blazor%20-5C2D91.svg?&style=flat-square&logo=blazor&logoColor=white" />][linkedin]
+[<img align="left" alt="Aurelia" title="Aurelia" height="20px" src="https://img.shields.io/badge/Aurelia-ED2B88.svg?&style=flat-square&logo=aurelia&logoColor=white" />][linkedin]
+[<img align="left" alt="Vue.js" title="Vue.js" height="20px" src="https://img.shields.io/badge/Vue.js%20-35495e.svg?&style=flat-square&logo=vue.js&logoColor=%234FC08D" />][linkedin]
 
 <br />
 
