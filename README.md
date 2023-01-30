@@ -12,7 +12,7 @@ Experienced Full-Stack Web Developer, Consultant, Mentor and Trainer with MSc So
 
 [<img align="left" alt="Coddict" width="40px" src="icons/coddict.svg" />][coddict]
 [<img align="left" alt="Coddict | youtube" width="40px" src="icons/youtube.svg" />][coddict]
-[<img align="left" alt="coddictco | Twitter" width="35px" src="icons/twitter.svg" />][twitter]
+[<img align="left" alt="fadihania | Twitter" width="35px" src="icons/twitter.svg" />][twitter]
 [<img align="left" alt="fadihania | LinkedIn" width="35px" src="icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Coddict | PayPal" width="35px" src="icons/paypal.svg" />][paypal]
 [<img align="left" alt="Coddict | Patreon" width="35px" src="icons/patreon.svg" />][patreon]
@@ -71,7 +71,7 @@ Experienced Full-Stack Web Developer, Consultant, Mentor and Trainer with MSc So
 [coddict]: https://coddict.co
 [youtube]: https://www.youtube.com/channel/UCfzYWnY6NI5JI9SlGl6NNuA
 [linkedin]: https://linkedin.com/in/fadihania
-[twitter]: https://twitter.com/coddictco
+[twitter]: https://twitter.com/fadihania
 [skype]: https://join.skype.com/invite/aOv2PHNvzmWc
 [paypal]: https://paypal.me/coddict
 [patreon]: https://www.patreon.com/coddict
