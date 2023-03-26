@@ -11,7 +11,7 @@ Experienced Full-Stack Web Developer, Consultant, Mentor and Trainer with MSc So
 ### Connect with me:
 
 [<img align="left" alt="Coddict" width="40px" src="icons/coddict.svg" />][coddict]
-[<img align="left" alt="Coddict | youtube" width="40px" src="icons/youtube.svg" />][coddict]
+[<img align="left" alt="Coddict | youtube" width="40px" src="icons/youtube.svg" />][youtube]
 [<img align="left" alt="fadihania | Twitter" width="35px" src="icons/twitter.svg" />][twitter]
 [<img align="left" alt="fadihania | LinkedIn" width="35px" src="icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Coddict | PayPal" width="35px" src="icons/paypal.svg" />][paypal]
@@ -69,7 +69,7 @@ Experienced Full-Stack Web Developer, Consultant, Mentor and Trainer with MSc So
 [<img align="left" alt="Terminal" title="Terminal" height="45px" src="icons/terminal.svg" />][linkedin]
 
 [coddict]: https://coddict.co
-[youtube]: https://www.youtube.com/channel/UCfzYWnY6NI5JI9SlGl6NNuA
+[youtube]: https://www.youtube.com/@coddict
 [linkedin]: https://linkedin.com/in/fadihania
 [twitter]: https://twitter.com/fadihania
 [skype]: https://join.skype.com/invite/aOv2PHNvzmWc
